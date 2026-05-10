@@ -1,0 +1,158 @@
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\appsettings.Development.json
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\appsettings.json
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.exe
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.deps.json
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.runtimeconfig.json
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.pdb
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Azure.Core.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Azure.Identity.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Humanizer.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.CodeDom.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.csproj.AssemblyReference.cache
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.AssemblyInfoInputs.cache
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.AssemblyInfo.cs
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.csproj.CoreCompileInputs.cache
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.MvcApplicationPartsAssemblyInfo.cs
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.MvcApplicationPartsAssemblyInfo.cache
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets\msbuild.SchoolDiary.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets\msbuild.build.SchoolDiary.props
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SchoolDiary.props
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SchoolDiary.props
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets.build.json
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets.development.json
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\scopedcss\bundle\SchoolDiary.styles.css
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.csproj.CopyComplete
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\refint\SchoolDiary.dll
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.pdb
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.genruntimeconfig.cache
+D:\Проекты Карим C#\SchoolDiary\SchoolDiary\obj\Debug\net7.0\ref\SchoolDiary.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\appsettings.Development.json
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\appsettings.json
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.exe
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.deps.json
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.runtimeconfig.json
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\SchoolDiary.pdb
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Azure.Core.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Azure.Identity.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Humanizer.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.CodeDom.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Memory.Data.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.csproj.AssemblyReference.cache
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.AssemblyInfoInputs.cache
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.AssemblyInfo.cs
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.csproj.CoreCompileInputs.cache
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.MvcApplicationPartsAssemblyInfo.cs
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.MvcApplicationPartsAssemblyInfo.cache
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets\msbuild.SchoolDiary.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets\msbuild.build.SchoolDiary.props
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SchoolDiary.props
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SchoolDiary.props
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets.build.json
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\staticwebassets.development.json
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\scopedcss\bundle\SchoolDiary.styles.css
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.dll
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\refint\SchoolDiary.dll
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.pdb
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.genruntimeconfig.cache
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\ref\SchoolDiary.dll
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Frontend\package-lock.json
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Frontend\package.json
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SchoolDiary\SchoolDiary\obj\Debug\net7.0\SchoolDiary.csproj.CopyComplete
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Frontend\tsconfig.app.json
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Frontend\tsconfig.json
+D:\SchoolDiary\SchoolDiary\bin\Debug\net7.0\Frontend\tsconfig.node.json
